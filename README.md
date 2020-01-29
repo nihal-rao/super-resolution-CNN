@@ -1,6 +1,6 @@
 # SRCNN
 
-This repository is implementation of the ["Image Super-Resolution Using Deep Convolutional Networks"](https://arxiv.org/abs/1501.00092).
+This repository is implementation of the ["Image Super-Resolution Using Deep Convolutional Networks"](https://github.com/nihal-rao/super-resolution-CNN/blob/master/imgs/structure.png).
 
 <center><img src="./thumbnails/fig1.png"></center>
 
