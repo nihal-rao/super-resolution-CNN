@@ -13,9 +13,9 @@ This repository is an implementation of the paper ["Image Super-Resolution Using
 
 ## Training
 
-As per the paper,the 91-image set is used for training. Set5 is used for evaluation.
+As per the paper, the 91-image set is used for training. Set5 is used for evaluation.
 
-Alternately, prepare.py can be used to create custom dataset.
+Alternately, utils.py (in srcnn/) can be used to create custom dataset.
 
 ```bash
 python train.py --train-file "/91-image_x3.h5" \
