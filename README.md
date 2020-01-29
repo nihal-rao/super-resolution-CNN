@@ -6,11 +6,10 @@ This repository is an implementation of the paper ["Image Super-Resolution Using
 
 ## Requirements
 
-- PyTorch 1.4.0
-- Numpy 1.15.4
+- PyTorch
+- Numpy 
 - OpenCV 2
-- h5py 2.8.0
-- tqdm 4.30.0
+- h5py 
 
 ## Training
 
