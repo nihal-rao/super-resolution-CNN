@@ -1,4 +1,4 @@
-# SRCNN
+# SuperResolutionCNN
 
 This repository is an implementation of the paper ["Image Super-Resolution Using Deep Convolutional Networks"](https://arxiv.org/pdf/1501.00092.pdf).
 
